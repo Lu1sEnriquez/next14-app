@@ -29,7 +29,7 @@ export const Sidebar = () => {
   return (
 
     <div id="menu" 
-      className="fixed  bg-gray-900 min-h-screen z-10 text-slate-300 w-64 left-0 overflow-y-scroll">
+      className="fixed  bg-gray-900 min-h-screen z-10 text-slate-300 w-64 left-0 ">
 
 
       <div id="logo" className="my-4 px-6">
